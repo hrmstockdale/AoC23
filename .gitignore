@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+*.egg-info/
+.venv
+
+# IDE
+.history
+.vscode
+.DS_Store
+.idea/

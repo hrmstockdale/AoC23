@@ -1,0 +1,5 @@
+[flake8]
+ignore = E203,W503
+exclude = .git,.history,.venv
+statistics = True
+count = True
